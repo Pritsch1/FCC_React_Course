@@ -1,0 +1,10 @@
+/* info.js */
+info > img {
+    width: 200px;
+}
+
+/* footer.js */
+footer > img {
+    width: 32px;
+    color: #c8c8c8;
+}
