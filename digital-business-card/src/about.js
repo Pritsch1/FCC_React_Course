@@ -2,7 +2,7 @@ function About() {
     return (
         <about>
             <h3>About</h3>
-            <p>~laskdn lçksahgço nbçkslbn vçksb ngvçoksj bngçkljsn ço snçl s</p>
+            <p>About is .....</p>
         </about>
     );
 }
