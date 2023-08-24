@@ -1,8 +1,10 @@
+const name = "aaaa"
+
 function About() {
     return (
         <about>
             <h3>About</h3>
-            <p>About is .....</p>
+            <p>{name}</p>
         </about>
     );
 }
